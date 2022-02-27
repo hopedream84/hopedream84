@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/MS--SQL-CC2927?logo=MicrosoftSQLServer&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=AmazonAWS&logoColor=white"/>
 </p>
 
 
