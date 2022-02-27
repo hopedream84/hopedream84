@@ -1,5 +1,12 @@
-### Hi there 👋
+[![Mail](https://img.shields.io/badge/Mail-hopedream00@naver.com-03C75A?logo=Naver&logoColor=white)](mailTo:hopedream00@naver.com)
+<a href='https://solved.ac/profile/hopedream'><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hopedream" /></a>
+<img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white"/>
 
+🌱 I’m currently learning ...
+
+<!--
+### Hi there 👋
+-->
 <!--
 **hopedream84/hopedream84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
