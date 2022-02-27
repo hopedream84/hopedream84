@@ -1,11 +1,13 @@
-<h4 align='center'>💬 Me 💬</h4>
-<p align = 'center'>About me</p>
+![header](https://capsule-render.vercel.app/api?type=slice&color=00599C&height=100&section=header&text=hopedream&fontSize=50)
+<h4 align='center'>👋 Hi there 👋</h4>
+<p align = 'center'>I'm hopedream, a growing game programmer. 🌱</p>
+
 <p align = 'center'>
 <a href='mailTo:hopedream00@naver.com'><img src='https://img.shields.io/badge/Mail-hopedream00@naver.com-03C75A?logo=Naver&logoColor=white'/></a>
 <a href='https://solved.ac/profile/hopedream'><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hopedream" /></a>
 <img src="https://img.shields.io/badge/GitHub-hopedream84-181717?logo=GitHub&logoColor=white"/>
 </p>
-<h4 align='center'>🛠 Tech 🛠</h4>
+<h4 align='center'>📚 Tech Stack 📚</h4>
 <p align = 'center'>Techs that I've used at least once</p>
 <p align = 'center'>
 <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white"/>
@@ -22,11 +24,15 @@
 <h4 align='center'>🌱 GitHub 🌱</h4>
 <p align = 'center'>Introduction to GitHub Repository</p>
 <p align = 'center'>
-<img src="https://img.shields.io/badge/private-181717"/>
-<a href='https://github.com/hopedream84/CodingTest'>hopedream84/CodingTest</a> : Problem Solving - 늦었지만, 쉬운 문제라도 꾸준히... (개인 정리 공간)
+<a href='https://github.com/hopedream84/CodingTest'><img src="https://img.shields.io/badge/private-hopedream84/CodingTest-181717"/></a>
+: Problem Solving - 늦었지만, 쉬운 문제라도 꾸준히... (개인 정리 공간)
 </p>
 <br>
 <p align = 'center'><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhopedream84%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=339933&height=100&section=footer&text=&fontSize=80)
+
+
 
 <!--
 ### Hi there 👋
