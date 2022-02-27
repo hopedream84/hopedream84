@@ -2,7 +2,10 @@
 <a href='https://solved.ac/profile/hopedream'><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hopedream" /></a>
 <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white"/>
 
+
 🌱 I’m currently learning ...
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhopedream84%2Fhit-counter"/></a>
 
 <!--
 ### Hi there 👋
