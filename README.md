@@ -2,6 +2,7 @@
 
 <h4 align='center'>👋 Hi there 👋</h4>
 <p align = 'center'>I'm hopedream, a growing game programmer. 🌱</p>
+<p align = 'center'>조각조각 찢어진 꿈들을~♬ 하나하나 모아서 희망이라 불러요~♬</p>
 <p align = 'center'>
 <a href='mailTo:hopedream00@naver.com'><img src='https://img.shields.io/badge/Mail-hopedream00@naver.com-03C75A?logo=Naver&logoColor=white'/></a>
 <a href='https://solved.ac/profile/hopedream'><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hopedream" /></a>
