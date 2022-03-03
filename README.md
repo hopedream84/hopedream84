@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=00599C&height=100&section=header&text=hopedream&fontSize=50)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=339933&height=100&section=header&text=hopedream&fontSize=50) -->
 ![Title](https://github.com/hopedream84/hopedream84/blob/main/Title.jpg)
 
 <h4 align='center'>👋 Hi there 👋</h4>
@@ -43,7 +42,7 @@
 <br>
 <p align = 'center'><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhopedream84%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=339933&height=100&section=footer&text=&fontSize=80)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=00599C&height=100&section=footer&text=&fontSize=80)
 
 
 
