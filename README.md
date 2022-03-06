@@ -24,7 +24,7 @@
 <h4 align='center'>🏙️ Company 🏙️</h4>
 <p align = 'center'>The company I worked for</p>
 <p align = 'center'>
-<!--<img src="https://img.shields.io/badge/Com2uS-DC2828"/>-->
+<img src="https://img.shields.io/badge/Com2uS-DC2828"/>
 <img src="https://img.shields.io/badge/WEMADE_PLUS-14F078"/>
 <img src="https://img.shields.io/badge/JOYCITY-FF6E00"/>
 <img src="https://img.shields.io/badge/EYEDENTITY_GAMES-6DAE1F"/>
