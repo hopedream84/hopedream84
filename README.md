@@ -36,7 +36,7 @@
 <p align = 'center'>Introduction to GitHub Repository</p>
 <h6 align = 'center'>
 <a href='https://github.com/hopedream84/CodingTest'><img src="https://img.shields.io/badge/private-hopedream84/CodingTest-181717"/></a>
-: Problem Solving - 늦었지만, 쉬운 문제라도 꾸준히... (개인 정리 공간)
+: Problem Solving - 코딩테스트 문제 풀이, (늦었지만, 쉬운 문제라도 꾸준히... (개인 정리 공간))
 </h6>
 
 <br>
