@@ -35,8 +35,11 @@
 <h4 align='center'>🌱 GitHub 🌱</h4>
 <p align = 'center'>Introduction to GitHub Repository</p>
 <h6 align = 'center'>
+<a href='https://github.com/hopedream84/CppNote'><img src="https://img.shields.io/badge/public-hopedream84/CppNote-6DAE1F"/></a>
+: C++ 관련 정리 노트 (C++11, C++14, C++17, C++20 관련 문법 및 예제)
+<br>
 <a href='https://github.com/hopedream84/CodingTest'><img src="https://img.shields.io/badge/private-hopedream84/CodingTest-181717"/></a>
-: Problem Solving - 코딩테스트 문제 풀이, (늦었지만, 쉬운 문제라도 꾸준히... (개인 정리 공간))
+: Problem Solving - 코딩테스트 문제 풀이, (늦었지만, 쉬운 문제라도 꾸준히... (개인 정리 노트))
 </h6>
 
 <br>
