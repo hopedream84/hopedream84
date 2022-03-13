@@ -32,6 +32,17 @@
 <img src="https://img.shields.io/badge/SKonec-E83530"/>
 </p>
 
+<h4 align='center'>🎮 Project 🎮</h4>
+<p align = 'center'>The game I worked on</p>
+<p align = 'center'>
+<img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_fs_s.png"/>
+<img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_3on3FS_s.png"/>
+<img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_L_s.png"/>
+<img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_ga_s.png"/>
+<img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_ma_s.png"/>
+</p>
+
+
 <h4 align='center'>🌱 GitHub 🌱</h4>
 <p align = 'center'>Introduction to GitHub Repository</p>
 <h6 align = 'center'>
