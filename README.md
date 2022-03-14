@@ -1,9 +1,9 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=339933&height=100&section=header&text=hopedream&fontSize=50) -->
 ![Title](https://github.com/hopedream84/hopedream84/blob/main/Title.jpg)
+<p align = 'center'>조각조각 찢어진 꿈들을~♬ 하나하나 모아서 희망이라 불러요~♬</p>
 
 <h4 align='center'>👋 Hi there 👋</h4>
 <p align = 'center'>I'm hopedream, a growing game programmer. 🌱</p>
-<p align = 'center'>조각조각 찢어진 꿈들을~♬ 하나하나 모아서 희망이라 불러요~♬</p>
 <p align = 'center'>
 <a href='mailTo:hopedream00@naver.com'><img src='https://img.shields.io/badge/Mail-hopedream00@naver.com-03C75A?logo=Naver&logoColor=white'/></a>
 <a href='https://solved.ac/profile/hopedream'><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hopedream" /></a>
@@ -35,6 +35,7 @@
 <h4 align='center'>🎮 Project 🎮</h4>
 <p align = 'center'>The game I worked on</p>
 <p align = 'center'>
+<!--<img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_smmo_s.png"/>-->
 <img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_fs_s.png"/>
 <img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_3on3FS_s.png"/>
 <img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_L_s.png"/>
