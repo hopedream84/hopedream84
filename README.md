@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white"/>
 </p>
 
-<h3 align='left'>🏙️ Company 🏙️</h3>
+<h3 align='left'>🏙️ Company</h3>
 <p align = 'left'>The company I worked for</p>
 <p align = 'left'>
 <img src="https://img.shields.io/badge/Com2uS-DC2828"/>
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/SKonec-E83530"/>
 </p>
 
-<h3 align='left'>🎮 Project 🎮</h3>
+<h3 align='left'>🎮 Project</h3>
 <p align = 'left'>The game I worked on</p>
 <p align = 'left'>
 <!--<img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_smmo_s.png"/>-->
@@ -50,7 +50,7 @@
 </p>
 
 
-<h3 align='left'>🌱 GitHub 🌱</h3>
+<h3 align='left'>🌱 GitHub</h3>
 <p align = 'left'>Introduction to GitHub Repository</p>
 <h6 align = 'left'>
 <a href='https://github.com/hopedream84/CppNote'><img src="https://img.shields.io/badge/public-hopedream84/CppNote-6DAE1F"/></a>
