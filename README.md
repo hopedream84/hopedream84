@@ -2,6 +2,8 @@
 ![Title](https://github.com/hopedream84/hopedream84/blob/main/Title.jpg)
 <p align = 'left'>조각조각 찢어진 꿈들을~♬ 하나하나 모아서 희망이라 불러요~♬</p>
 
+#
+
 <h3 align='left'>👋 Hi there</h3>
 <p align = 'left'>I'm hopedream, a growing game server programmer. 🌱</p>
 <p align = 'left'>
@@ -16,6 +18,8 @@
 , <img src="https://img.shields.io/badge/IT/Game_Industry-FFA827"/>
 </p>
 
+#
+
 <h3 align='left'>📚 Tech Stack</h3>
 <p align = 'left'>Techs that I've used at least once</p>
 <p align = 'left'>
@@ -26,6 +30,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white"/>
 </p>
+
+#
 
 <h3 align='left'>🏙️ Company</h3>
 <p align = 'left'>The company I worked for</p>
@@ -38,6 +44,8 @@
 <img src="https://img.shields.io/badge/SKonec-E83530"/>
 </p>
 
+#
+
 <h3 align='left'>🎮 Project</h3>
 <p align = 'left'>The game I worked on</p>
 <p align = 'left'>
@@ -49,6 +57,7 @@
 <img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_ma_s.png"/>
 </p>
 
+#
 
 <h3 align='left'>🌱 GitHub</h3>
 <p align = 'left'>Introduction to GitHub Repository</p>
