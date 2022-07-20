@@ -21,14 +21,16 @@
 #
 
 <h3 align='left'>📚 Tech Stack</h3>
-<p align = 'left'>Techs that I've used at least once</p>
+<p align = 'left'>Languages that I've used at least once</p>
 <p align = 'left'>
 <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-68217A?logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"/>
+<!--
 <img src="https://img.shields.io/badge/MS--SQL-CC2927?logo=MicrosoftSQLServer&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white"/>
+-->
 </p>
 
 #
