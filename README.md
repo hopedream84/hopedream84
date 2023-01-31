@@ -59,6 +59,7 @@
 <img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_ma_s.png"/>
 </p>
 
+<!--
 #
 
 <h3 align='left'>🌱 GitHub</h3>
@@ -70,6 +71,7 @@
 <a href='https://github.com/hopedream84/CodingTest'><img src="https://img.shields.io/badge/private-hopedream84/CodingTest-181717"/></a>
 : Problem Solving - 코딩테스트 문제 풀이, (늦었지만, 쉬운 문제라도 꾸준히... (개인 정리 노트))
 </h6>
+-->
 
 #
 
