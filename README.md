@@ -1,4 +1,4 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=339933&height=100&section=header&text=hopedream&fontSize=50) -->
+
 ![Title](https://github.com/hopedream84/hopedream84/blob/main/Title.jpg)
 <p align = 'left'>조각조각 찢어진 꿈들을~♬ 하나하나 모아서 희망이라 불러요~♬</p>
 
@@ -51,7 +51,7 @@
 <h3 align='left'>🎮 Project</h3>
 <p align = 'left'>The game I worked on</p>
 <p align = 'left'>
-<!--<img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_smmo_s.png"/>-->
+<img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_smmo_s.png"/>
 <img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_fs_s.png"/>
 <img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_3on3FS_s.png"/>
 <img src="https://github.com/hopedream84/hopedream84/blob/main/img/prj_L_s.png"/>
@@ -78,15 +78,11 @@
 <br>
 <p align = 'left'><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhopedream84%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
 
-<!--
-![footer](https://capsule-render.vercel.app/api?type=slice&color=00599C&height=100&section=footer&text=&fontSize=80)
--->
 
 
 <!--
 ### Hi there 👋
--->
-<!--
+
 **hopedream84/hopedream84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
