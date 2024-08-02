@@ -5,7 +5,7 @@
 #
 
 <h3 align='left'>👋 Hi there</h3>
-<p align = 'left'>I'm hopedream, a growing game server programmer. 🌱</p>
+<p align = 'left'>I'm hopedream, a growing game server programmer. 👨‍💻 </p>
 <p align = 'left'>
 <a href='mailTo:hopedream00@naver.com'><img src='https://img.shields.io/badge/Mail-hopedream00@naver.com-03C75A?logo=Naver&logoColor=white'/></a>
 <a href='https://solved.ac/profile/hopedream'><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hopedream" /></a>
@@ -95,4 +95,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+👨🏻‍💻👨‍💻
 -->
